@@ -1,0 +1,60 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto Mono", monospace;
+}
+main{
+    width: 50vw;
+    margin: 0 auto;
+}
+
+h1{
+    font-weight: 900;
+    text-align: center;
+}
+
+h2{
+    text-transform: uppercase;
+    color: #8a2be2;
+}
+
+p{
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center
+}
+
+table{
+    border-collapse: collapse;
+    border: 2px solid #8a2be2;
+    border-radius: 8px;
+    text-align: left;
+    width: 100%;
+}
+
+thead{
+    color: white;
+    background-color: #8a2be2;
+}
+
+tbody tr{
+    border: 2px solid black;
+}
+
+thead th{
+    padding: 12px 24px;
+}
+
+tbody td{
+    padding: 4px 24px;
+}
+
+footer p{
+    font-size: 12px;
+}
+
+footer{
+    margin-top: 2rem;
+    padding: 24px;
+    background-color: #E8E1EF;
+}
